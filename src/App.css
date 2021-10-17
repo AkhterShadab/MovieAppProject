@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+/* .group {
+  display: flex;
+  margin-inline-end: 30px;
+} */
